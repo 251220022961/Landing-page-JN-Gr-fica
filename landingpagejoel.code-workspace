@@ -1,3 +1,1084 @@
-{
-	"folders": []
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Impressão DTF Têxtil e DTF UV | Gráfica Especializada em Personalizados - JN Revenda Impressão Digital</title>
+    
+    <meta name="description" content="Descubra a impressão DTF Têxtil para tecidos (algodão, poliéster) e DTF UV para superfícies rígidas (acrílico, vidro, metal) na Gráfica JN Revenda Impressão Digital. Qualidade, agilidade e atendimento personalizado para seus brindes, uniformes e peças personalizadas. Faça seu orçamento DTF agora!">
+    
+    <meta name="keywords" content="DTF Têxtil, DTF UV, impressão DTF, adesivo DTF UV, DTF em tecido, DTF em rígidos, personalizar camisetas, brindes personalizados, fornecedor DTF, gráfica DTF, estampas, transfer DTF, JN Revenda Impressão Digital, como pedir DTF, DTF ou Silk">
+
+    <meta property="og:title" content="Impressão DTF Têxtil e DTF UV | JN Revenda Impressão Digital">
+    <meta property="og:description" content="Serviço de impressão DTF Têxtil e DTF UV de alta qualidade para personalizar tecidos e superfícies rígidas. Solicite seu orçamento com a Gráfica JN Revenda Impressão Digital!">
+    <meta property="og:image" content="https://i.postimg.cc/VvthqV5B/Sem-T-tulo-4.png"> 
+    <meta property="og:url" content="https://www.revendajn.com.br/"> 
+    <meta property="og:type" content="website">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "O que é DTF Têxtil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DTF Têxtil é uma tecnologia moderna de estamparia que permite personalizar tecidos com alta qualidade e durabilidade. A sigla vem de Direct to Film, ou seja, a arte é impressa em um filme especial e depois transferida para o tecido usando calor e pressão. O resultado? Estampas vivas, resistentes e com acabamento incrível!"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O que é melhor: DTF ou Silk?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Depende da sua necessidade! O DTF Têxtil é perfeito para quem quer agilidade, riqueza de detalhes e tiragens menores. Já o Silk Screen costuma ser mais vantajoso para grandes quantidades. Se você busca personalização rápida e sem dor de cabeça, o DTF é a melhor escolha."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preciso de equipamento para aplicar DTF Têxtil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim, para aplicar a estampa no tecido você vai precisar de uma prensa térmica. Ela é essencial para garantir a fixação do filme com qualidade e durabilidade. Mas pode ficar tranquilo: o processo é simples e rápido!"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quais tecidos aceitam DTF Têxtil?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O DTF Têxtil é super versátil! Ele funciona em diversos tipos de tecido como: Algodão, Poliéster, Moletom, Viscose, Malha fria, entre outros. Ou seja, dá pra personalizar praticamente qualquer peça!"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O que é estampa DTF UV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A estampa DTF UV é ideal para quem quer personalizar superfícies rígidas com brilho, resistência e alto padrão de acabamento. Funciona super bem em materiais como acrílico, vidro, plástico, madeira e metal. Tudo isso com uma aplicação prática e sem complicações."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "O que é adesivo DTF UV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "É um adesivo impresso com tecnologia UV que já vem prontinho pra aplicar direto no produto. Ele gruda fácil, tem acabamento brilhante e é super resistente. Ideal para quem trabalha com brindes personalizados, embalagens ou quer dar um toque especial em qualquer superfície rígida."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preciso de equipamento para aplicar DTF UV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Não precisa! Essa é uma das maiores vantagens do DTF UV: você aplica direto na peça, sem prensa, sem calor e sem complicação. É só destacar e colar!"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo dura o DTF UV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "O DTF UV é feito pra durar. Ele resiste à água, ao atrito e até à exposição ao sol. Se for bem aplicado, pode durar por muito tempo, perfeito pra quem quer um resultado duradouro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pode lavar DTF UV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pode sim! O DTF UV é resistente à água, então pode ser lavado sem problema. Ele mantém as cores e o brilho mesmo com o uso diário, ideal pra copos, garrafas e outros brindes personalizados."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <style>
+        /* Reset básico e tipografia */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        html, body {
+            height: 100%; /* Garante que HTML e Body ocupem a altura total da viewport */
+            min-height: 100vh; /* Garante altura mínima da viewport */
+            scroll-behavior: smooth; /* Rolagem suave, opcional */
+        }
+        body {
+            font-family: Arial, sans-serif; /* Fonte padrão para o corpo */
+            overflow-x: hidden; /* Evita rolagem horizontal indesejada */
+            line-height: 1.6; /* Padrão de linha para todo o corpo */
+            color: #333; /* Cor de texto padrão para o corpo */
+            background-color: #FFF; /* Fundo branco para todo o corpo */
+        }
+
+        /* Container principal do banner (primeira seção) */
+        .banner-dtf {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #2147f0; /* COR DE FUNDO AZUL */
+            color: #FFF;
+            padding: 80px 100px;
+            min-height: 600px;
+            overflow: hidden;
+            z-index: 1; /* Garante que esta seção esteja acima do body */
+        }
+
+        /* Fundo da Impressora DTF UV no Banner */
+        .banner-dtf::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            /*
+              * !!! IMPORTANTE !!!
+              * SUBSTITUA ESTA URL PELA URL DA SUA IMAGEM REAL DA IMPRESSORA DTF UV.
+              * Esta imagem deve ser o fundo que aparece sutilmente.
+              */
+            background-image: url('URL_DA_IMAGEM_DA_IMPRESSORA_DTF_UV.jpg'); /* <-- SUBSTITUA AQUI! */
+            background-size: cover;
+            background-position: center;
+            opacity: 0.15; /* Ajuste a opacidade para que a impressora seja sutil */
+            z-index: 1;
+        }
+
+        /* Overlay Azul Semitransparente no Banner */
+        .banner-dtf::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(33, 71, 240, 0.7); /* COR DO OVERLAY: AZUL COM OPACIDADE */
+            z-index: 2;
+        }
+
+        /* Conteúdo principal (texto e imagem dos produtos) no Banner */
+        .banner-content-wrapper {
+            position: relative;
+            z-index: 3;
+            display: flex;
+            align-items: center;
+            max-width: 1200px;
+            width: 100%;
+            margin: 0 auto;
+            gap: 40px;
+        }
+
+        /* Seção de Texto no Banner */
+        .banner-dtf .texto {
+            flex: 1;
+            max-width: 50%;
+            padding-right: 20px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+        }
+
+        .banner-dtf .texto p.lead {
+            font-family: Arial, sans-serif;
+            font-size: 24px;
+            font-weight: 800;
+            color: #FFD700; /* AMARELO VIBRANTE */
+            line-height: 1.2;
+            margin-bottom: 8px;
+        }
+
+        .banner-dtf .texto h1 {
+            font-family: 'Arial Black', Gadget, sans-serif; /* ARIAL BLACK NOS TÍTULOS H1 */
+            font-size: 90px;
+            font-weight: 900;
+            line-height: 1;
+            margin-bottom: 20px;
+        }
+
+        .banner-dtf .texto h1 span {
+            display: block;
+        }
+
+        .banner-dtf .texto p.descricao {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 28px;
+            max-width: 500px;
+        }
+
+        /* Botão no Banner */
+        .banner-dtf .texto a.botao {
+            font-family: Arial, sans-serif;
+            display: inline-block;
+            background-color: #FFD700; /* AMARELO VIBRANTE */
+            color: #2147f0; /* Cor do texto do botão para contraste (azul do fundo) */
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 800;
+            padding: 16px 30px;
+            border-radius: 4px;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+        }
+
+        .banner-dtf .texto a.botao:hover {
+            background-color: #E6C200; /* Tom mais escuro para o hover */
+            color: #FFF; /* Texto branco no hover */
+        }
+
+        /* Seção da Imagem de Produtos no Banner */
+        .banner-dtf .imagem {
+            flex: 1;
+            max-width: 500px;
+            position: relative;
+        }
+
+        .banner-dtf .imagem img {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            display: block;
+            filter: drop-shadow(0 5px 15px rgba(0,0,0,0.5));
+        }
+
+        /* Estilos para as Seções de Conteúdo (DTF Têxtil e DTF UV) */
+        .content-section {
+            padding: 80px 100px;
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            max-width: 1200px;
+            margin: 0 auto;
+            gap: 80px;
+            flex-wrap: wrap;
+            background-color: #FFF; /* Fundo branco para as seções */
+        }
+
+        /* Inverte a ordem em telas maiores para a segunda seção (DTF UV) */
+        .content-section.reverse-on-desktop {
+            flex-direction: row-reverse;
+        }
+
+        .content-section .text-block {
+            flex: 1;
+            min-width: 380px;
+            max-width: 50%;
+        }
+
+        .content-section .text-block h2 {
+            font-family: 'Arial Black', Gadget, sans-serif; /* ARIAL BLACK NOS TÍTULOS H2 */
+            font-size: 50px;
+            font-weight: 900;
+            color: #2147f0; /* AZUL */
+            margin-bottom: 5px;
+            line-height: 1.1;
+        }
+        
+        .content-section .text-block h3 {
+            font-family: 'Arial Black', Gadget, sans-serif; /* ARIAL BLACK NOS TÍTULOS H3 */
+            font-size: 28px;
+            font-weight: 800;
+            color: #2147f0; /* AZUL */
+            margin-bottom: 25px;
+            line-height: 1.3;
+        }
+
+        .content-section .text-block p {
+            font-family: Arial, sans-serif;
+            font-size: 17px;
+            margin-bottom: 20px;
+        }
+
+        .content-section .text-block ul {
+            list-style: none;
+            padding-left: 0;
+            margin-bottom: 30px;
+        }
+
+        .content-section .text-block ul li {
+            font-family: Arial, sans-serif;
+            position: relative;
+            padding-left: 25px;
+            margin-bottom: 10px;
+            font-size: 16px;
+            font-weight: 700;
+        }
+
+        .content-section .text-block ul li::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: #FFD700; /* AMARELO VIBRANTE */
+            font-size: 20px;
+            line-height: 1;
+            top: 2px;
+        }
+
+        /* Botão das seções de conteúdo */
+        .content-section .btn-content {
+            font-family: Arial, sans-serif;
+            display: inline-block;
+            background-color: #FFD700; /* AMARELO VIBRANTE */
+            color: #2147f0; /* Texto do botão azul para contraste */
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 800;
+            padding: 16px 30px;
+            border-radius: 4px;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .content-section .btn-content:hover {
+            background-color: #E6C200; /* Tom mais escuro para o hover */
+            color: #FFF; /* Texto branco no hover */
+        }
+
+        /* Bloco de Imagens para as seções de conteúdo (agora com apenas uma imagem principal) */
+        .image-container-single {
+            flex: 1;
+            min-width: 450px;
+            max-width: 550px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image-container-single img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            object-fit: contain;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        /* Nova Seção: Passo a Passo */
+        .step-by-step-section {
+            position: relative;
+            padding: 80px 100px;
+            background-color: #2147f0; /* Fundo AZUL */
+            color: #FFF;
+            text-align: center;
+            overflow: hidden;
+            z-index: 1; /* Garante que esta seção esteja acima do body */
+        }
+
+        /* Reutiliza o fundo de impressora e overlay do banner principal */
+        .step-by-step-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('URL_DA_IMAGEM_DA_IMPRESSORA_DTF_UV.jpg'); /* <-- SUBSTITUA AQUI! */
+            background-size: cover;
+            background-position: center;
+            opacity: 0.15;
+            z-index: 1;
+        }
+
+        .step-by-step-section::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(33, 71, 240, 0.7);
+            z-index: 2;
+        }
+
+        .step-by-step-section .section-title {
+            position: relative;
+            z-index: 3;
+            font-family: 'Arial Black', Gadget, sans-serif;
+            font-size: 40px;
+            font-weight: 900;
+            color: #FFD700; /* AMARELO VIBRANTE */
+            margin-bottom: 50px; /* Mais espaço para os cards */
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+        }
+        .step-by-step-section .section-title span {
+            display: block; /* Para "PASSO A PASSO" ir para a próxima linha */
+        }
+
+
+        .step-by-step-section .steps-container {
+            position: relative;
+            z-index: 3;
+            display: flex;
+            justify-content: center;
+            gap: 30px; /* Espaço entre os cards */
+            flex-wrap: wrap; /* Permite que os cards quebrem linha */
+            max-width: 1200px; /* Limita a largura dos cards */
+            margin: 0 auto 50px auto; /* Centraliza e adiciona margem inferior para o botão */
+        }
+
+        .step-by-step-section .step-card {
+            background-color: rgba(255, 255, 255, 0.1); /* Fundo dos cards com leve transparência */
+            border: 2px solid #FFD700; /* Borda amarela vibrante */
+            border-radius: 10px;
+            padding: 25px;
+            width: 250px; /* Largura fixa para os cards */
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+        }
+
+        .step-by-step-section .step-card:hover {
+            transform: translateY(-5px); /* Efeito de elevação no hover */
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .step-by-step-section .step-card .icon {
+            width: 60px; /* Tamanho dos ícones */
+            height: 60px;
+            margin-bottom: 20px;
+            fill: #FFD700; /* Ícones amarelos */
+        }
+        
+        .step-by-step-section .step-card .step-number {
+            font-family: 'Arial Black', Gadget, sans-serif;
+            font-size: 28px;
+            font-weight: 900;
+            color: #FFD700; /* AMARELO VIBRANTE */
+            margin-bottom: 10px;
+        }
+
+        .step-by-step-section .step-card p {
+            font-family: Arial, sans-serif;
+            font-size: 15px;
+            line-height: 1.5;
+            color: #FFF; /* Texto dos cards em branco */
+        }
+
+        /* Botão da Seção Passo a Passo */
+        .step-by-step-section .btn-cta-bottom {
+            font-family: Arial, sans-serif;
+            display: inline-block;
+            background-color: #FFD700; /* AMARELO VIBRANTE */
+            color: #2147f0; /* Texto do botão azul para contraste */
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: 800;
+            padding: 18px 40px;
+            border-radius: 4px;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            position: relative; /* Para garantir que fique acima do fundo */
+            z-index: 3;
+        }
+
+        .step-by-step-section .btn-cta-bottom:hover {
+            background-color: #E6C200; /* Tom mais escuro para o hover */
+            color: #FFF; /* Texto branco no hover */
+        }
+
+        /* New Section: Yellow Cards */
+        .yellow-cards-section {
+            background-color: #FFD700; /* Yellow background */
+            padding: 80px 100px;
+            text-align: center;
+        }
+
+        .yellow-cards-section .section-title {
+            font-family: 'Arial Black', Gadget, sans-serif;
+            font-size: 40px;
+            font-weight: 900;
+            color: #2147f0; /* Cor do título alterada para azul */
+            margin-bottom: 50px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+        }
+
+        .yellow-cards-section .cards-container {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .yellow-cards-section .card {
+            background-color: #2147f0; /* Fundo dos cards azul */
+            border-radius: 10px;
+            padding: 30px;
+            width: 320px; /* Largura ajustada para os cards */
+            text-align: left;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .yellow-cards-section .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+        }
+
+        .yellow-cards-section .card h3 {
+            font-family: 'Arial Black', Gadget, sans-serif;
+            font-size: 24px;
+            font-weight: 800;
+            color: #FFD700; /* Título do card amarelo */
+            margin-bottom: 15px;
+        }
+
+        .yellow-cards-section .card p {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #FFF; /* Texto do card branco */
+            margin-bottom: 20px;
+        }
+
+        .yellow-cards-section .card ul {
+            list-style: none;
+            padding-left: 0;
+            margin-top: auto; /* Empurra o conteúdo para cima, alinhando a lista abaixo */
+        }
+
+        .yellow-cards-section .card ul li {
+            position: relative;
+            padding-left: 25px;
+            margin-bottom: 10px;
+            font-family: Arial, sans-serif;
+            font-size: 15px;
+            color: #FFF; /* Texto da lista branco */
+        }
+
+        .yellow-cards-section .card ul li::before {
+            content: '✓'; /* Ícone de checkmark */
+            position: absolute;
+            left: 0;
+            color: #FFD700; /* Checkmark amarelo */
+            font-size: 18px;
+            line-height: 1;
+            top: 0;
+        }
+
+        /* Nova seção: Dúvidas Frequentes */
+        .faq-section {
+            background-color: #FFF; /* Fundo branco */
+            padding: 80px 100px;
+            text-align: center;
+        }
+
+        .faq-section .section-title {
+            font-family: 'Arial Black', Gadget, sans-serif;
+            font-size: 40px;
+            font-weight: 900;
+            color: #2147f0; /* Cor do título para azul */
+            margin-bottom: 50px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+        }
+
+        .faq-section .faq-container {
+            max-width: 900px;
+            margin: 0 auto;
+            text-align: left; /* Alinhar texto das perguntas e respostas à esquerda */
+        }
+
+        .faq-section details {
+            background-color: #F8F8F8; /* Um cinza bem claro para o fundo das perguntas */
+            border: 1px solid #DDD;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            transition: background-color 0.3s ease, border-color 0.3s ease;
+        }
+
+        .faq-section details[open] {
+            background-color: #EFEFEF; /* Um pouco mais escuro quando aberto */
+            border-color: #C0C0C0;
+        }
+
+        .faq-section summary {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            padding: 20px;
+            cursor: pointer;
+            outline: none; /* Remove outline ao clicar */
+            position: relative;
+        }
+
+        .faq-section summary::-webkit-details-marker {
+            display: none; /* Remove o marcador padrão do Chrome/Safari */
+        }
+
+        .faq-section summary::after {
+            content: '+'; /* Adiciona um ícone de mais */
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 24px;
+            color: #2147f0; /* Cor azul para o ícone */
+            transition: transform 0.3s ease;
+        }
+
+        .faq-section details[open] summary::after {
+            content: '-'; /* Muda para menos quando aberto */
+            transform: translateY(-50%) rotate(180deg); /* Gira para visualização */
+        }
+
+        .faq-section .faq-content {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #555;
+            padding: 0 20px 20px 20px; /* Padding apenas na parte inferior e lateral */
+            border-top: 1px solid #EEE; /* Linha divisória fina */
+        }
+
+        /* Botão Falar com Especialista na seção FAQ - Estilo dos botões da página */
+        .faq-section .btn-specialist {
+            font-family: Arial, sans-serif;
+            display: inline-flex; /* Para alinhar o ícone e o texto */
+            align-items: center;
+            background-color: #FFD700; /* AMARELO VIBRANTE */
+            color: #2147f0; /* Cor do texto do botão para contraste (azul do fundo) */
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 800;
+            padding: 16px 30px;
+            border-radius: 4px; /* Formato quadrado, como os outros botões */
+            margin-top: 40px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .faq-section .btn-specialist:hover {
+            background-color: #E6C200; /* Tom mais escuro para o hover */
+            color: #FFF; /* Texto branco no hover */
+        }
+
+        .faq-section .btn-specialist img {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+            vertical-align: middle; /* Alinha o ícone com o texto */
+        }
+
+        .faq-section .logo-bottom {
+            margin-top: 30px; /* Ajuste a margem superior para espaçamento */
+            width: 150px; /* Tamanho do logo */
+            height: auto;
+            filter: drop-shadow(0 2px 5px rgba(0,0,0,0.1));
+            display: block; /* Garante que o logo ocupe sua própria linha */
+            margin-left: auto; /* Centraliza */
+            margin-right: auto; /* Centraliza */
+        }
+
+        .faq-section .copyright {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            color: #555;
+            margin-top: 10px; /* Espaçamento entre o logo e o copyright */
+        }
+
+
+        /* Início das Media Queries para Responsividade */
+
+        /* Para telas até 1200px (Desktop menor / Laptop) */
+        @media(max-width:1200px) {
+            .banner-dtf, .content-section, .step-by-step-section, .yellow-cards-section, .faq-section { padding: 60px 60px; }
+            .banner-content-wrapper, .content-section, .step-by-step-section .steps-container, .yellow-cards-section .cards-container, .faq-section .faq-container { max-width: 1000px; }
+            .banner-dtf .texto, .content-section .text-block { max-width: 55%; }
+            .banner-dtf .texto p.lead { font-size: 22px; }
+            .banner-dtf .texto h1 { font-size: 80px; }
+            .banner-dtf .texto p.descricao { font-size: 17px; }
+            .banner-dtf .texto a.botao { font-size: 17px; }
+            .banner-dtf .imagem { max-width: 450px; }
+
+            .content-section .text-block h2 { font-size: 45px; }
+            .content-section .text-block h3 { font-size: 26px; }
+            .image-container-single { min-width: 350px; max-width: 500px; }
+
+            .step-by-step-section .section-title { font-size: 35px; }
+            .step-by-step-section .step-card { width: 220px; padding: 20px; }
+            .step-by-step-section .step-card .icon { width: 50px; height: 50px; }
+            .step-by-step-section .step-card .step-number { font-size: 24px; }
+            .step-by-step-section .step-card p { font-size: 14px; }
+            .step-by-step-section .btn-cta-bottom { font-size: 18px; padding: 16px 30px; }
+
+            .yellow-cards-section .section-title { font-size: 35px; }
+            .yellow-cards-section .card { width: 30%; max-width: 300px; padding: 25px; }
+            .yellow-cards-section .card h3 { font-size: 22px; }
+            .yellow-cards-section .card p { font-size: 15px; }
+            .yellow-cards-section .card ul li { font-size: 14px; }
+
+            .faq-section .section-title { font-size: 35px; }
+            .faq-section summary { font-size: 17px; padding: 18px; }
+            .faq-section .faq-content { font-size: 15px; padding: 0 18px 18px 18px; }
+            .faq-section .btn-specialist { font-size: 17px; padding: 14px 25px; }
+            .faq-section .btn-specialist img { width: 22px; height: 22px; }
+            .faq-section .logo-bottom { width: 130px; }
+            .faq-section .copyright { font-size: 13px; }
+        }
+
+        /* Para telas até 992px (Tablets em modo paisagem / Desktops pequenos) */
+        @media(max-width:992px) {
+            .banner-dtf, .content-section, .step-by-step-section, .yellow-cards-section, .faq-section {
+                padding: 50px 40px;
+                flex-direction: column; /* Pilha os elementos verticalmente */
+                text-align: center;
+                gap: 30px;
+            }
+            .content-section.reverse-on-desktop {
+                flex-direction: column; /* Garante que também empilhe mesmo se originalmente invertido no desktop */
+            }
+            .banner-content-wrapper {
+                flex-direction: column;
+            }
+            .banner-dtf .texto, .banner-dtf .imagem,
+            .content-section .text-block, .image-container-single,
+            .step-by-step-section .steps-container, .yellow-cards-section .cards-container, .faq-section .faq-container {
+                max-width: 100%; /* Permite largura total para empilhamento */
+                margin: 0 auto; /* Centraliza blocos */
+                padding-right: 0;
+            }
+            /* Fontes de Títulos - Reduzidas para Mobile */
+            .banner-dtf .texto p.lead { font-size: 18px; } /* Reduzido */
+            .banner-dtf .texto h1 { font-size: 58px; } /* Reduzido */
+            .banner-dtf .texto p.descricao { font-size: 15px; max-width: 90%; }
+            .banner-dtf .texto a.botao { font-size: 16px; padding: 14px 24px; }
+            .banner-dtf .imagem { width: 70%; margin-top: 20px; }
+
+            /* Fontes de Títulos - Reduzidas para Mobile */
+            .content-section .text-block h2 { font-size: 38px; } /* Reduzido */
+            .content-section .text-block h3 { font-size: 22px; } /* Reduzido */
+            .content-section .text-block p { font-size: 15px; }
+            .content-section .text-block ul { text-align: left; max-width: 400px; margin-left: auto; margin-right: auto; } /* Centraliza lista */
+            .content-section .text-block ul li { font-size: 15px; }
+            .content-section .btn-content { font-size: 16px; padding: 14px 24px; }
+            .image-container-single { width: 90%; margin-top: 20px; }
+
+            /* Fontes de Títulos - Reduzidas para Mobile */
+            .step-by-step-section .section-title { font-size: 28px; } /* Reduzido */
+            .step-by-step-section .step-card { width: 45%; max-width: 250px; } /* Duas colunas em tablets */
+            .step-by-step-section .step-card .icon { width: 50px; height: 50px; }
+            .step-by-step-section .step-card .step-number { font-size: 24px; }
+            .step-by-step-section .step-card p { font-size: 14px; }
+            .step-by-step-section .btn-cta-bottom { font-size: 16px; padding: 14px 24px; }
+
+            /* Fontes de Títulos - Reduzidas para Mobile */
+            .yellow-cards-section .section-title { font-size: 28px; } /* Reduzido */
+            .yellow-cards-section .card { width: 45%; max-width: 320px; } /* Duas colunas em tablets */
+            .yellow-cards-section .card h3 { font-size: 20px; } /* Reduzido */
+            .yellow-cards-section .card p { font-size: 15px; }
+            .yellow-cards-section .card ul li { font-size: 14px; }
+
+            /* Fontes de Títulos - Reduzidas para Mobile */
+            .faq-section .section-title { font-size: 28px; } /* Reduzido */
+            .faq-section summary { font-size: 16px; padding: 16px; }
+            .faq-section .faq-content { font-size: 14px; padding: 0 16px 16px 16px; }
+            .faq-section .btn-specialist { font-size: 16px; padding: 12px 20px; }
+            .faq-section .btn-specialist img { width: 20px; height: 20px; }
+            .faq-section .logo-bottom { width: 100px; }
+            .faq-section .copyright { font-size: 12px; }
+        }
+
+        /* Para telas até 768px (Tablets em modo retrato / Smartphones grandes) */
+        @media(max-width:768px) {
+            .banner-dtf, .content-section, .step-by-step-section, .yellow-cards-section, .faq-section { padding: 40px 20px; min-height: auto; }
+            /* Fontes de Títulos - Mais Reduzidas para Mobile */
+            .banner-dtf .texto p.lead { font-size: 16px; } /* Mais reduzido */
+            .banner-dtf .texto h1 { font-size: 48px; } /* Mais reduzido */
+            .banner-dtf .texto p.descricao { font-size: 14px; }
+            .banner-dtf .texto a.botao { font-size: 14px; padding: 12px 20px; }
+            .banner-dtf .imagem { width: 80%; margin-top: 20px; }
+
+            /* Fontes de Títulos - Mais Reduzidas para Mobile */
+            .content-section .text-block h2 { font-size: 32px; } /* Mais reduzido */
+            .content-section .text-block h3 { font-size: 18px; } /* Mais reduzido */
+            .content-section .text-block p { font-size: 14px; }
+            .content-section .text-block ul li { font-size: 14px; }
+            .content-section .btn-content { font-size: 14px; padding: 12px 20px; }
+            .image-container-single { width: 90%; margin-top: 15px; }
+
+            /* Fontes de Títulos - Mais Reduzidas para Mobile */
+            .step-by-step-section .section-title { font-size: 24px; } /* Mais reduzido */
+            .step-by-step-section .step-card { width: 100%; max-width: 300px; } /* Uma coluna em smartphones */
+            .step-by-step-section .btn-cta-bottom { font-size: 14px; padding: 12px 20px; }
+
+            /* Fontes de Títulos - Mais Reduzidas para Mobile */
+            .yellow-cards-section .section-title { font-size: 24px; } /* Mais reduzido */
+            .yellow-cards-section .card { width: 100%; max-width: 300px; } /* Uma coluna em smartphones */
+            .yellow-cards-section .card h3 { font-size: 18px; } /* Mais reduzido */
+            .yellow-cards-section .card p { font-size: 14px; }
+            .yellow-cards-section .card ul li { font-size: 13px; }
+
+            /* Fontes de Títulos - Mais Reduzidas para Mobile */
+            .faq-section .section-title { font-size: 24px; } /* Mais reduzido */
+            .faq-section summary { font-size: 15px; padding: 15px; }
+            .faq-section .faq-content { font-size: 13px; padding: 0 15px 15px 15px; }
+            .faq-section .btn-specialist { font-size: 14px; padding: 10px 18px; }
+            .faq-section .btn-specialist img { width: 18px; height: 18px; }
+            .faq-section .logo-bottom { width: 80px; }
+            .faq-section .copyright { font-size: 11px; }
+        }
+
+        /* Para telas até 480px (Smartphones pequenos) */
+        @media(max-width:480px) {
+            .banner-dtf, .content-section, .step-by-step-section, .yellow-cards-section, .faq-section { padding: 30px 15px; }
+            /* Fontes de Títulos - Máximo Reduzidas para Mobile */
+            .banner-dtf .texto p.lead { font-size: 14px; } /* Máximo reduzido */
+            .banner-dtf .texto h1 { font-size: 38px; } /* Máximo reduzido */
+            .banner-dtf .texto p.descricao { font-size: 12px; }
+            .banner-dtf .texto a.botao { font-size: 12px; padding: 10px 18px; }
+            .banner-dtf .imagem { width: 90%; }
+
+            /* Fontes de Títulos - Máximo Reduzidas para Mobile */
+            .content-section .text-block h2 { font-size: 28px; } /* Máximo reduzido */
+            .content-section .text-block h3 { font-size: 16px; } /* Máximo reduzido */
+            .image-container-single { width: 100%; margin-top: 10px; }
+
+            /* Fontes de Títulos - Máximo Reduzidas para Mobile */
+            .step-by-step-section .section-title { font-size: 20px; } /* Máximo reduzido */
+            .step-by-step-section .step-card { padding: 15px; }
+            .step-by-step-section .step-card .step-number { font-size: 20px; }
+            .step-by-step-section .step-card p { font-size: 13px; }
+
+            /* Fontes de Títulos - Máximo Reduzidas para Mobile */
+            .yellow-cards-section .section-title { font-size: 20px; } /* Máximo reduzido */
+            .yellow-cards-section .card { padding: 20px; }
+            .yellow-cards-section .card h3 { font-size: 16px; } /* Máximo reduzido */
+            .yellow-cards-section .card p { font-size: 13px; }
+            .yellow-cards-section .card ul li { font-size: 12px; }
+
+            /* Fontes de Títulos - Máximo Reduzidas para Mobile */
+            .faq-section .section-title { font-size: 20px; } /* Máximo reduzido */
+            .faq-section summary { font-size: 13px; padding: 12px; }
+            .faq-section .faq-content { font-size: 11px; padding: 0 12px 12px 12px; }
+            .faq-section .btn-specialist { font-size: 12px; padding: 8px 15px; }
+            .faq-section .btn-specialist img { width: 16px; height: 16px; }
+            .faq-section .logo-bottom { width: 70px; }
+            .faq-section .copyright { font-size: 10px; }
+        }
+    </style>
+</head>
+<body>
+    <section class="banner-dtf">
+        <div class="banner-content-wrapper">
+            <div class="texto">
+                <p class="lead">VOCÊ TRABALHA COM PERSONALIZADOS?<br>SOMOS UMA GRÁFICA ESPECIALIZADA EM&nbsp;</p>
+                <h1>
+                    <span><span style="color: rgb(255, 255, 255);">DTF&nbsp;<span style="display: inline !important;">TÊXTIL&nbsp;</span></span></span>
+                    <span><span style="color: rgb(255, 255, 255);">E&nbsp;DTF UV</span></span>
+                </h1>
+                <p class="descricao">
+Na <b>Gráfica JN Revenda Impressão Digital</b>, suas impressões chegam no prazo e sem complicações.
+Oferecemos <b>atendimento personalizado</b>, com foco total nas suas necessidades.
+E garantimos <b>entrega rápida</b> e facilitada.
+                </p>
+                <a href="https://wa.me/5511967682996?text=Ol%C3%A1!%20Vim%20pela%20landing%20page%20de%20DTF%20T%C3%AAxtil%20e%20DTF%20UV%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.%20%0A" class="botao" target="_blank" rel="noopener" aria-label="Solicitar Orçamento de Impressão DTF via WhatsApp">
+                    SOLICITAR ORÇAMENTO DE IMPRESSÃO DTF
+                </a>
+            </div>
+            <div class="imagem">
+                <img src="https://i.postimg.cc/VvthqV5B/Sem-T-tulo-4.png" alt="Conjunto de itens impressos com DTF Têxtil e DTF UV, incluindo rolo de filme, camisetas e boné para personalização.">
+            </div>
+        </div>
+    </section>
+
+    <section class="content-section">
+        <div class="text-block">
+            <h2>DTF TÊXTIL</h2>
+            <h3><span style="color: rgb(0, 0, 0);">IMPRESSÃO DE QUALIDADE PARA TECIDOS!&nbsp;</span></h3>
+            <p>Transforme camisetas, uniformes esportivos e corporativos com estampas DTF têxtil, ideais para aplicar em algodão, poliéster e muitos outros materiais.
+Com nossa tecnologia de impressão, você garante durabilidade e resultado profissional em qualquer peça.</p>
+            <ul>
+                <li>Cores vivas que não desbotam fácil;</li>
+                <li>Estampa aplicada em segundos; </li>
+                <li>Impressão de pequenas e grandes tiragens.</li>
+            </ul>
+            <a href="https://wa.me/5511967682996?text=Ol%C3%A1,%20Gostaria%20de%20receber%20um%20or%C3%A7amento%20para%20impress%C3%A3o%20de%20DTF%20T%C3%AAxtil." class="btn-content" target="_blank" rel="noopener" aria-label="Solicitar Orçamento DTF Têxtil via WhatsApp">
+                ORÇAMENTO DTF TÊXTIL
+            </a>
+        </div>
+        <div class="image-container-single">
+            <img src="https://i.postimg.cc/hjwQqJCt/Adicional-DTF-DTV-TEXTIL.png" alt="Exemplos de impressão DTF Têxtil em camisetas, mostrando vivacidade de cores e rolos de filme.">
+        </div>
+    </section>
+
+    <section class="content-section reverse-on-desktop">
+        <div class="text-block">
+            <h2>DTF UV</h2>
+            <h3><span style="color: rgb(0, 0, 0);">PRATICIDADE PARA PERSONALIZAR OBJETOS!</span></h3>
+            <p>Personalize brindes e superfícies rígidas com aplicação direta em acrílico, vidro, plástico, madeira, metal e muito mais. Ideal para quem busca um adesivo diferenciado, com alta qualidade e acabamento profissional.</p>
+            <ul>
+                <li>Resistente à água;</li>
+                <li>Qualidade de impressão e custo-benefício; </li>
+                <li>Aplicação fácil, sem necessidade de equipamentos.</li>
+            </ul>
+            <a href="https://wa.me/5511967682996?text=Ol%C3%A1,%20Gostaria%20de%20receber%20um%20or%C3%A7amento%20para%20impress%C3%A3o%20de%20DTF%20UV." class="btn-content" target="_blank" rel="noopener" aria-label="Solicitar Orçamento DTF UV via WhatsApp">
+                ORÇAMENTO DTF UV
+            </a>
+        </div>
+        <div class="image-container-single">
+            <img src="https://i.postimg.cc/hGZ0Z1dJ/Adicional-DTF-DTF-UV.png" alt="Exemplos de impressão DTF UV em itens rígidos como capas de celular e adesivos, mostrando brilho e durabilidade.">
+        </div>
+    </section>
+
+    <section class="step-by-step-section">
+        <h2 class="section-title"><span style="color: rgb(255, 255, 255);">SIGA O PASSO A PASSO PARA COMPRAR O SEU DTF!</span></h2>
+        
+        <div class="steps-container">
+            <div class="step-card">
+                <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z"></path>
+                </svg>
+                <div class="step-number">1º PASSO</div>
+                <p>Clique em um dos botões da página para falar com nossa equipe pelo WhatsApp e dar início ao atendimento.</p>
+            </div>
+
+            <div class="step-card">
+                <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z"></path>
+                </svg>
+                <div class="step-number">2º PASSO</div>
+                <p>Informe o tipo de impressão que precisa (DTF Têxtil ou DTF UV) e a metragem e quantidade desejada.</p>
+            </div>
+
+            <div class="step-card">
+                <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M9 16.2L4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4L9 16.2z"></path>
+                </svg>
+                <div class="step-number">3º PASSO</div>
+                <p>Receba seu orçamento com todos os detalhes. Após a aprovação e o pagamento, começamos a produção.</p>
+            </div>
+
+            <div class="step-card">
+                <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 3L2 12h3v8h6v-6h2v6h6v-8h3L12 3zm0 5.62l5 4.5V18h-2v-6H9v6H7v-3.88l5-4.5z"></path>
+                </svg>
+                <div class="step-number">4º PASSO</div>
+                <p>Suas impressões ficam prontas em pouco tempo! Você pode optar por entrega delivery ou em um dos nossos balcões de retirada.</p>
+            </div>
+        </div>
+        
+        <a href="https://wa.me/5511967682996?text=Ol%C3%A1!%20Vim%20pela%20landing%20page%20de%20DTF%20T%C3%AAxtil%20e%20DTF%20UV%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.%20%0A" class="btn-cta-bottom" target="_blank" rel="noopener" aria-label="Solicitar Orçamento Agora via WhatsApp">
+            SOLICITAR ORÇAMENTO AGORA!
+        </a>
+    </section>
+
+    <section class="yellow-cards-section">
+        <h2 class="section-title"><span style="color: rgb(0, 0, 0);">POR QUE COMPRAR NA GRAFICA JN REVENDA IMPRESSÃO DIGITAL? </span><br><span>Impressão com processo descomplicado e agilidade na entrega.</span></h2>
+        
+        <div class="cards-container">
+            <div class="card">
+                <h3>Impressão Premium</h3>
+                <p>Conte conosco para garantir que seu projeto seja finalizado com a melhor qualidade de impressão.</p>
+                <ul>
+                    <li> Resultado profissional </li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h3>Entrega Super Rápida</h3>
+                <p>Cumprimos prazos com seriedade para que você receba seu material no tempo certo, sem estresse.</p>
+                <ul>
+                    <li> Compromisso com agilidade</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h3>Atendimento Personalizado</h3>
+                <p>Nossa atendimento está pronto para tirar dúvidas, dar sugestões e acompanhar cada detalhe da impressão.</p>
+                <ul>
+                    <li>Suporte de especialistas </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section">
+        <h2 class="section-title">DÚVIDAS FREQUENTES</h2>
+        
+        <div class="faq-container">
+            <details>
+                <summary>O que é DTF Têxtil?</summary>
+                <div class="faq-content">
+                    <p>DTF Têxtil é uma tecnologia moderna de estamparia que permite personalizar tecidos com alta qualidade e durabilidade. A sigla vem de Direct to Film, ou seja, a arte é impressa em um filme especial e depois transferida para o tecido usando calor e pressão. O resultado? Estampas vivas, resistentes e com acabamento incrível!</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>O que é melhor: DTF ou Silk?</summary>
+                <div class="faq-content">
+                    <p>Depende da sua necessidade! O DTF Têxtil é perfeito para quem quer agilidade, riqueza de detalhes e tiragens menores. Já o Silk Screen costuma ser mais vantajoso para grandes quantidades. Se você busca personalização rápida e sem dor de cabeça, o DTF é a melhor escolha.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>Preciso de equipamento para aplicar DTF Têxtil?</summary>
+                <div class="faq-content">
+                    <p>Sim, para aplicar a estampa no tecido você vai precisar de uma prensa térmica. Ela é essencial para garantir a fixação do filme com qualidade e durabilidade. Mas pode ficar tranquilo: o processo é simples e rápido!</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>Quais tecidos aceitam DTF Têxtil?</summary>
+                <div class="faq-content">
+                    <p>O DTF Têxtil é super versátil! Ele funciona em diversos tipos de tecido como: Algodão, Poliéster, Moletom, Viscose, Malha fria, entre outros. Ou seja, dá pra personalizar praticamente qualquer peça!</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>O que é estampa DTF UV?</summary>
+                <div class="faq-content">
+                    <p>A estampa DTF UV é ideal para quem quer personalizar superfícies rígidas com brilho, resistência e alto padrão de acabamento. Funciona super bem em materiais como acrílico, vidro, plástico, madeira e metal. Tudo isso com uma aplicação prática e sem complicações.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>O que é adesivo DTF UV?</summary>
+                <div class="faq-content">
+                    <p>É um adesivo impresso com tecnologia UV que já vem prontinho pra aplicar direto no produto. Ele gruda fácil, tem acabamento brilhante e é super resistente. Ideal para quem trabalha com brindes personalizados, embalagens ou quer dar um toque especial em qualquer superfície rígida.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>Preciso de equipamento para aplicar DTF UV?</summary>
+                <div class="faq-content">
+                    <p>Não precisa! Essa é uma das maiores vantagens do DTF UV: você aplica direto na peça, sem prensa, sem calor e sem complicação. É só destacar e colar!</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>Quanto tempo dura o DTF UV?</summary>
+                <div class="faq-content">
+                    <p>O DTF UV é feito pra durar. Ele resiste à água, ao atrito e até à exposição ao sol. Se for bem aplicado, pode durar por muito tempo, perfeito pra quem quer um resultado duradouro.</p>
+                </div>
+            </details>
+
+            <details>
+                <summary>Pode lavar DTF UV?</summary>
+                <div class="faq-content">
+                    <p>Pode sim! O DTF UV é resistente à água, então pode ser lavado sem problema. Ele mantém as cores e o brilho mesmo com o uso diário, ideal pra copos, garrafas e outros brindes personalizados.</p>
+                </div>
+            </details>
+        </div>
+
+        <a href="https://www.revendajn.com.br/?utm_source=landing_page&amp;utm_medium=dtfuv_textil&amp;utm_campaign=grafica_jn" class="btn-specialist" target="_blank" rel="noopener" aria-label="Acesse nosso site para mais informações sobre DTF Têxtil e UV">
+            <img src="https://i.postimg.cc/FKnC24LV/Camada-2-2.png" alt="Ícone WhatsApp">
+            ACESSE NOSSO SITE 
+        </a>
+
+        <img src="https://i.postimg.cc/wjVpKX19/logotipo-1626707264-4.png" alt="Logo Gráfica JN Revenda Impressão Digital" class="logo-bottom">
+        <p class="copyright">Copyright © GRÁFICA JN REVENDA IMPRESSÃO DIGITAL</p>
+    </section>
+</body>
+</html>
